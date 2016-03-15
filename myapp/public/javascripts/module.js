@@ -2,6 +2,6 @@
 
 	'use strict';
 
-	angular.module('creditCardApp', ['formly', 'formlyBootstrap']);
+	var app = angular.module('creditCardApp', ['formly', 'formlyBootstrap']);
 
 })();
